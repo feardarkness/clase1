@@ -1,0 +1,23 @@
+{
+  "name": "clase1",
+  "version": "1.0.0",
+  "description": "Primera clase de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/feardarkness/clase1.git"
+  },
+  "keywords": [
+    "node.js",
+    "basics"
+  ],
+  "author": "Ariel Alvarado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feardarkness/clase1/issues"
+  },
+  "homepage": "https://github.com/feardarkness/clase1#readme"
+}
