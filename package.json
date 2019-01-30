@@ -26,5 +26,9 @@
     "eslint-plugin-import": "^2.16.0",
     "eslint-plugin-jsx-a11y": "^6.2.0",
     "eslint-plugin-react": "^7.12.4"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
   }
 }
