@@ -1,0 +1,11 @@
+***** destructuring ******  // google mdn destructuring // arrays
+
+const objeto = {
+  a: 1,
+  b: 2
+};
+
+const { b } = objeto;
+console.log('=====================================');
+console.log(a); // 1
+console.log('=====================================');
